@@ -43,6 +43,15 @@ All sessions and notebooks in this course will be delivered using **Google Colab
 
 > ✅ You must have a **Google account** to participate.
 
+
+### Transfering Jupyter notebooks to Google Colab
+
+By clicking on the Google Colab link below it will take you to the Google Colab platform. The first thing you see will be some Python code, running in a Jupyter notebook. Click anywhere in the code block and then, to the left hand side, you will see a 'play' button. If you click this button Google Colab will run the code in there. This code essentially creates a new folder on your Google Drive and then mounts that drive before downloading the  course. **You will need to confirm you are happy linking your google account to proceed*. In fact, everytime you re-open the course material there is some code to re-mount your google drive. You will be asked if you approve this. If you do not, it is likely you will not be able to access the data used in the examples.
+
+Once complete you can then run through the course material from your Google account. 
+
+- [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/Aerosol_CDT_summer_training/blob/master/Setup_GoogleColab.ipynb)
+
 ### 📁 Uploading Data
 
 Before running the notebooks, please upload the required datasets to your own Google Drive.
