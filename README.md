@@ -52,6 +52,8 @@ Once complete you can then run through the course material from your Google acco
 
 - [![Open notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loftytopping/Aerosol_CDT_summer_training/blob/master/Setup_GoogleColab.ipynb)
 
+**when accessing Colab you will need to specify a GPU runtime**
+
 ### 📁 Uploading Data
 
 Before running the notebooks, please upload the required datasets to your own Google Drive.
